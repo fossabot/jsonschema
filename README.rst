@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fjsonschema.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fjsonschema?ref=badge_shield)
+
 ==========
 jsonschema
 ==========
@@ -173,3 +175,7 @@ And for companies who appreciate ``jsonschema`` and its continued support
 and growth, ``jsonschema`` is also now supportable via `TideLift
 <https://tidelift.com/subscription/pkg/pypi-jsonschema?utm_source=pypi-j
 sonschema&utm_medium=referral&utm_campaign=readme>`_.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fjsonschema.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fjsonschema?ref=badge_large)
